@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌕 MoonPie Documentation](README.md)
+* [🎃 MoonPie Documentation](README.md)
 * [Welcome](welcome.md)
 * [Get Started](get-started/README.md)
   * [Create Account](get-started/create-account.md)
